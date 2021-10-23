@@ -1,0 +1,9 @@
+-
+  name: copy job
+  hosts: all
+  tasks:
+    -
+      name: copy_jon
+      copy:
+        src: /home/osboxes/demo/random.txt
+        dest: /home/osboxes

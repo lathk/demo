@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/osboxes/demo",
+    "host": "192.168.0.114",
+    "username": "osboxes",
+    "password": "osboxes.org",
+    "port": 22,
+    "secure": false,
+    "protocol": "scp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".yml, .yaml, .txt"
+        ],
+        "path": ""
+    }
+}
