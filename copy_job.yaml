@@ -7,3 +7,5 @@
       copy:
         src: /home/osboxes/demo/random.txt
         dest: /home/osboxes
+        
+      name: copy
